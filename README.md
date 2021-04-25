@@ -9,4 +9,6 @@ formats curated by the Content Team.
 
 Use VS Code or some other IDE with a Markdown linter to prevent file malformation.
 
+## Styling
 
+Where appropriate the intended styling for tools like Mentimeter or Kabloom will be provided.
